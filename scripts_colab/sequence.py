@@ -445,6 +445,8 @@ class SeqFeatures:
 
         if nu_file is not None:
             self.kappa = calc_kappa_manual(seq)
+            if self.kappa == -1: # no charges
+                self.kappa = 0.
             feats_for_nu = [self.scd, self.shd, self.kappa, self.fcr, self.mean_lambda]
             model_nu = load(nu_file)
             X_nu = np.reshape(np.array(feats_for_nu),(1,-1))
