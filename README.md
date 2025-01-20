@@ -10,10 +10,11 @@ The phase separation predictor can be run on Google Colab:
 Simulation trajectories and density maps are deposited on the Electronic Research Data Archive (ERDA): [Link](https://sid.erda.dk/sharelink/hlZfnFz4AM)
 
 ## List of content:
-- **calvados**: Scripts to run CALVADOS 2 simulations.
 - **data**: Pandas dataframes with sequences, features and phase separation propensities for the training data, validation data and full IDRome. The folder also contains density maps for simulations excluded from the analysis. Also included is raw data for the structural analysis of the interface. 
+- **data_revision**: Data added/modified during revision process.
 - **models**: ML models.
 - **scripts_colab**: Scripts supporting the Google Colab implementation.
 - **PSLab.ipynb**: Google Colab.
 - **example.fasta**: Fasta example file for Google Colab batch prediction.
 - **figures.ipynb**: Jupyter notebook to reproduce plots for the paper figures.
+- **figures_revision.ipynb**: Jupyter notebook to reproduce revised plots for the paper figures. The notebook requires CALVADOS, available [here](https://github.com/KULL-Centre/CALVADOS).
