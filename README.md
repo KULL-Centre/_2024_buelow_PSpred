@@ -7,6 +7,10 @@ The phase separation predictor can be run on Google Colab:
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KULL-Centre/_2024_buelow_PSpred/blob/main/PSLab.ipynb)
 
+TWIN2PIPSA Tutorial Colab:
+
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KULL-Centre/_2024_buelow_PSpred/blob/main/PSLab_TWIN2PIPSA.ipynb)
+
 Simulation trajectories and density maps are deposited on the Electronic Research Data Archive (ERDA): [Link](https://sid.erda.dk/sharelink/hlZfnFz4AM)
 
 ## List of content:
