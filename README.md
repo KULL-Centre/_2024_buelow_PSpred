@@ -1,11 +1,13 @@
 # Prediction of phase separation propensities of disordered proteins from sequence
 Supporting data and code for:
 
-*von Bülow, S., Tesei, G., & Lindorff-Larsen, K. (2024). Prediction of phase separation propensities of disordered proteins from sequence. bioRxiv.*
+*S. von Bülow, G. Tesei, F. K. Zaidi, T. Mittag, K. Lindorff-Larsen, Prediction of phase-separation propensities of disordered proteins from sequence. Proc. Natl. Acad. Sci. U.S.A. (2025).*
 
 The phase separation predictor can be run on Google Colab:
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KULL-Centre/_2024_buelow_PSpred/blob/main/PSLab.ipynb)
+
+The CALVADOS simulation code is available [here](https://github.com/KULL-Centre/CALVADOS).
 
 Simulation trajectories and density maps are deposited on the Electronic Research Data Archive (ERDA): [Link](https://sid.erda.dk/sharelink/hlZfnFz4AM)
 
