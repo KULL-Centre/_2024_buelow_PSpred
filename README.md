@@ -1,9 +1,9 @@
-# Prediction of phase separation propensities of disordered proteins from sequence
+# Prediction of phase-separation propensities of disordered proteins from sequence
 Supporting data and code for:
 
 *S. von Bülow, G. Tesei, F. K. Zaidi, T. Mittag, K. Lindorff-Larsen, Prediction of phase-separation propensities of disordered proteins from sequence. Proc. Natl. Acad. Sci. U.S.A. (2025).*
 
-The phase separation predictor can be run on Google Colab:
+The phase-separation predictor can be run on Google Colab:
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KULL-Centre/_2024_buelow_PSpred/blob/main/PSLab.ipynb)
 
