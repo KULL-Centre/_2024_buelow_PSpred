@@ -9,7 +9,7 @@ The phase-separation predictor can be run on Google Colab:
 
 The CALVADOS simulation code is available [here](https://github.com/KULL-Centre/CALVADOS).
 
-Simulation trajectories and density maps are deposited on the Electronic Research Data Archive (ERDA): [Link](erda.ku.dk/archives/d29311f079323ca099fd9ef8dbd118ca/published-archive.html)
+Simulation trajectories and density maps are deposited on the Electronic Research Data Archive (ERDA): [Link](doi.org/10.17894/ucph.e364274d-8094-4852-88ba-cb8985810a8d)
 
 ## List of content:
 - **data**: Pandas dataframes with sequences, features and phase separation propensities for the training data, validation data and full IDRome. The folder also contains density maps for simulations excluded from the analysis. Also included is raw data for the structural analysis of the interface. 
